@@ -1,6 +1,6 @@
 {
   "name": "webpack-cleanup-plugin",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Plugin for webpack to cleanup extraneous files from the output path directory",
   "main": "./lib/WebpackCleanupPlugin.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gpbl/webpack-cleanup-plugin.git"
+    "url": "git+https://github.com/equidate/webpack-cleanup-plugin.git"
   },
   "keywords": [
     "webpack",
@@ -19,9 +19,9 @@
   "author": "gpbl <io@gpbl.org> (https://github.com/gpbl)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gpbl/webpack-cleanup-plugin/issues"
+    "url": "https://github.com/equidate/webpack-cleanup-plugin/issues"
   },
-  "homepage": "https://github.com/gpbl/webpack-cleanup-plugin#readme",
+  "homepage": "https://github.com/equidate/webpack-cleanup-plugin#readme",
   "devDependencies": {
     "babel": "5.8.21",
     "eslint": "1.2.1",
